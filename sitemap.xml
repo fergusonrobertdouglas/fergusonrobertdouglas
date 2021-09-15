@@ -5,6 +5,18 @@
 <loc>http://www.robertdouglasferguson.com/</loc>
 </url>
 <url>
+<loc>http://www.robertdouglasferguson.com/bio.html</loc>
+<lastmod>2021-09-15T14:17:13-04:00</lastmod>
+<image:image>
+<image:loc>http://www.robertdouglasferguson.com/media/posts/1/mcgillschoolofinformationstudies_studentlaptopwindow-small-300x125-3.png</image:loc>
+<image:title><![CDATA[bio pic 1]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://www.robertdouglasferguson.com/media/posts/1/photo-6-small-300x224-2.jpg</image:loc>
+<image:title><![CDATA[bio pic 2]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>http://www.robertdouglasferguson.com/contact.html</loc>
 <lastmod>2021-09-09T16:19:06-04:00</lastmod>
 </url>
@@ -19,17 +31,5 @@
 <url>
 <loc>http://www.robertdouglasferguson.com/research.html</loc>
 <lastmod>2021-09-09T16:19:29-04:00</lastmod>
-</url>
-<url>
-<loc>http://www.robertdouglasferguson.com/robert-douglas-ferguson.html</loc>
-<lastmod>2021-09-15T11:57:18-04:00</lastmod>
-<image:image>
-<image:loc>http://www.robertdouglasferguson.com/media/posts/1/mcgillschoolofinformationstudies_studentlaptopwindow-small-300x125-3.png</image:loc>
-<image:title><![CDATA[bio pic 1]]></image:title>
-</image:image>
-<image:image>
-<image:loc>http://www.robertdouglasferguson.com/media/posts/1/photo-6-small-300x224-2.jpg</image:loc>
-<image:title><![CDATA[bio pic 2]]></image:title>
-</image:image>
 </url>
 </urlset>
