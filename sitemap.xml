@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.robertdouglasferguson.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>http://www.robertdouglasferguson.com/</loc>
+</url>
+<url>
+<loc>http://www.robertdouglasferguson.com/contact.html</loc>
+<lastmod>2021-09-09T16:19:06-04:00</lastmod>
+</url>
+<url>
+<loc>http://www.robertdouglasferguson.com/cv.html</loc>
+<lastmod>2021-09-15T12:13:45-04:00</lastmod>
+</url>
+<url>
+<loc>http://www.robertdouglasferguson.com/page/2/</loc>
+</url>
+<url>
+<loc>http://www.robertdouglasferguson.com/page/3/</loc>
+</url>
+<url>
+<loc>http://www.robertdouglasferguson.com/page/4/</loc>
+</url>
+<url>
+<loc>http://www.robertdouglasferguson.com/page/5/</loc>
+</url>
+<url>
+<loc>http://www.robertdouglasferguson.com/publications.html</loc>
+<lastmod>2021-09-09T16:20:29-04:00</lastmod>
+</url>
+<url>
+<loc>http://www.robertdouglasferguson.com/research.html</loc>
+<lastmod>2021-09-09T16:19:29-04:00</lastmod>
+</url>
+<url>
+<loc>http://www.robertdouglasferguson.com/robert-douglas-ferguson.html</loc>
+<lastmod>2021-09-15T11:57:18-04:00</lastmod>
+<image:image>
+<image:loc>http://www.robertdouglasferguson.com/media/posts/1/mcgillschoolofinformationstudies_studentlaptopwindow-small-300x125-3.png</image:loc>
+<image:title><![CDATA[bio pic 1]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://www.robertdouglasferguson.com/media/posts/1/photo-6-small-300x224-2.jpg</image:loc>
+<image:title><![CDATA[bio pic 2]]></image:title>
+</image:image>
+</url>
+</urlset>
